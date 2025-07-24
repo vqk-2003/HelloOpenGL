@@ -1,5 +1,6 @@
 ﻿---
-BasedOnStyle: WebKit
+BasedOnStyle: LLVM
+PointerAlignment: Left
 SortIncludes: 'false'
 
 ...
